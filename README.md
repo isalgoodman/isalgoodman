@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @isalgoodman (i know, the "l")
-- 👀 I’m interested in Python and network stuff 
-- 🌱 I’m currently learning Python 
-
-- ⚡my English is terrible
   
 
 <!---
